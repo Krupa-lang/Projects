@@ -8,5 +8,6 @@ namespace BookApp50
 {
     class Class1
     {
+        //Привет таня, как у тебя дела!
     }
 }
